@@ -1,0 +1,27 @@
+{
+  "name": "warroom",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "runner": "node server/local-runner.mjs",
+    "start": "node scripts/start.mjs",
+    "demo:capture": "node scripts/capture-demo.mjs",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "lucide-react": "^0.562.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "playwright": "^1.52.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  }
+}
