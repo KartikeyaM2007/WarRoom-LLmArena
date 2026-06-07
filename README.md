@@ -1,10 +1,10 @@
 # WarRoom-LLmArena
 
-**Author: [kartiyea](docs/demo/AUTHOR.md)**
+**Author: [kartikeya](docs/demo/AUTHOR.md)**
 
 A local multi-agent coding arena. Four roles debate a task while a runner can clone a GitHub seed, write a real static app to disk, and serve a live preview.
 
-**Demo (kartiyea):** [Walkthrough + screenshots](docs/demo/DEMO.md) · [How agents argue](docs/demo/DEBATE.md) · [Video script](docs/demo/VIDEO_SCRIPT.md) · `npm run demo:capture`
+**Demo (kartikeya):** [Walkthrough + screenshots](docs/demo/DEMO.md) · [How agents argue](docs/demo/DEBATE.md) · [Video script](docs/demo/VIDEO_SCRIPT.md) · `npm run demo:capture`
 
 | Agent | Role |
 |-------|------|
